@@ -1,0 +1,17 @@
+environment/config.yaml
+
+
+# --- VOLATILE AT EACH START (ignore) ----------------------------------------
+neo4j_database/neo4j_home/logs/
+neo4j_database/neo4j_home/run/
+neo4j_database/neo4j_home/server_id
+neo4j_database/neo4j_home/*.lock
+
+# Per-transaction logs – recreated constantly
+neo4j_database/neo4j_home/data/transactions/
+
+# Internal DBMS metadata
+neo4j_database/neo4j_home/data/dbms/
+
+# Runtime metrics
+neo4j_database/neo4j_home/data/metrics/

@@ -15,3 +15,22 @@ neo4j_database/neo4j_home/data/dbms/
 
 # Runtime metrics
 neo4j_database/neo4j_home/data/metrics/
+
+## Von Henry geaddet:
+# Henry API-Key
+llm_enrichment/pythonProject1/.env
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# PyCharm config
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtuelle Umgebungen
+.venv/

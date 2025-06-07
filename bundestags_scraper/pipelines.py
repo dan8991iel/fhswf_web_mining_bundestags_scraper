@@ -105,7 +105,7 @@ class Neo4jPipeline:
     
     # ───────────────── page helper ──────────────────────────────────
     @staticmethod
-    def _ensure_page(tx, url: str, title: str | None = None, html: str | None = None):
+    def _ensure_page(tx, url, title = None, html = None):
         """
         Always creates/updates a Page node AND its BELONGS_TO_DOMAIN edge.
         Returns nothing (Cypher MERGE is idempotent).
@@ -140,7 +140,7 @@ class Neo4jPipeline:
             """
             MERGE (pg:Page {url:$url})
             ON CREATE SET pg.title=$title, pg.html=$html
-            ON MATCH  SET pg.title = coalesce(pg.title,$title)
+            ON MATCH  SET pg.title = coalesce(pg.title,$title), pg.html  = coalesce(pg.html,$html)
             WITH pg
             MATCH (d:Domain {name:$dom})
             MERGE (pg)-[:BELONGS_TO_DOMAIN]->(d)

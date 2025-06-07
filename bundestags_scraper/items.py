@@ -32,6 +32,7 @@ class PoliticianItem(BaseItem):
     political_party = scrapy.Field()
     federate_state = scrapy.Field()
     constituency = scrapy.Field()
+    remarks = scrapy.Field()
     source_page = scrapy.Field()
     detail_page = scrapy.Field()
 

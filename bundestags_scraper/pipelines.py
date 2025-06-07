@@ -363,15 +363,18 @@ class Neo4jPipeline:
                 MERGE (m:Mandate {id:$mid})
                 ON CREATE SET m.political_party = $party,
                               m.federate_state  = $state,
-                              m.constituency    = $const
+                              m.constituency    = $const,
+                              m.remarks    = coalesce(m.remarks,$remarks)
                 ON MATCH  SET m.political_party = coalesce(m.political_party,$party),
                               m.federate_state  = coalesce(m.federate_state,$state),
-                              m.constituency    = coalesce(m.constituency,$const)
+                              m.constituency    = coalesce(m.constituency,$const),
+                              m.remarks         = coalesce(m.remarks,$remarks)
                 """,
                 mid=mandate_id,
                 party=normalized_party,
                 state=pol.get("federate_state"),
                 const=pol.get("constituency"),
+                remarks=pol.get("remarks")
             )
             # connect Mandate
             tx.run(

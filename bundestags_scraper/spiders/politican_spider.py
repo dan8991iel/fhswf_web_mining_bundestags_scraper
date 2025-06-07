@@ -115,6 +115,7 @@ class PoliticianSpider(LoggingMixin, SourceMixin, Neo4jMixin, scrapy.Spider):
             'political_party': ['partei', 'fraktion'],
             'federate_state': ['land'],
             'constituency': ['wahlkreis'],
+            'remarks' : ['bemerkung']
         }
         header_mapping = {}
         for idx, header in enumerate(headers):
@@ -154,7 +155,7 @@ class PoliticianSpider(LoggingMixin, SourceMixin, Neo4jMixin, scrapy.Spider):
             self._extract_lifespan(item, cell(idx))
         
 
-        for field in ('political_party', 'federate_state', 'constituency'):
+        for field in ('political_party', 'federate_state', 'constituency', 'remarks'):
             idx = header_map.get(field)
             c = cell(idx)
             if c:

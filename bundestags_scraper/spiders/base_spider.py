@@ -138,17 +138,13 @@ class Neo4jMixin():
     """
 
     def __init__(self, *args, **kwargs):
-        crawler = kwargs.pop("crawler", None)
+        # Remove crawler handling from __init__ since it's now done in from_crawler
         super().__init__(*args, **kwargs)
-
-        if crawler is None:
-            raise RuntimeError("Neo4jMixin must be instantiated via from_crawler()")
-
-        s = crawler.settings
-        self.neo4j_uri      = s.get("NEO4J_URI")
-        self.neo4j_user     = s.get("NEO4J_USER")
-        self.neo4j_password = s.get("NEO4J_PASSWORD")
-
+        
+        # These will be set by from_crawler method
+        self.neo4j_uri = None
+        self.neo4j_user = None
+        self.neo4j_password = None
         self._driver = None
 
     # ------------------------------------------------------------------
@@ -172,5 +168,14 @@ class Neo4jMixin():
     # ensure Scrapy constructs the spider with `crawler` kw-arg
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
-        kwargs["crawler"] = crawler
-        return cls(*args, **kwargs)
+        # Don't pass crawler in kwargs to avoid conflicts
+        spider = super().from_crawler(crawler, *args, **kwargs)
+        
+        # Set up Neo4j configuration after spider is created
+        s = crawler.settings
+        spider.neo4j_uri = s.get("NEO4J_URI")
+        spider.neo4j_user = s.get("NEO4J_USER")
+        spider.neo4j_password = s.get("NEO4J_PASSWORD")
+        spider._driver = None
+        
+        return spider

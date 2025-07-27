@@ -19,3 +19,6 @@
 {"ts":"2025-07-26T19:25:43","spider":"legislative_periods","level":"INFO","event":{"event": "yield_domain_item", "domain": "de.wikipedia.org", "url": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages"}}
 {"ts":"2025-07-26T19:25:43","spider":"legislative_periods","level":"INFO","event":{"event": "start_parse_list_of_lists", "url": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages"}}
 {"ts":"2025-07-26T19:25:43","spider":"legislative_periods","level":"INFO","event":{"event": "found_rows", "count": 72, "url": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages"}}
+{"ts":"2025-07-27T19:19:14","spider":"legislative_periods","level":"INFO","event":{"event": "yield_domain_item", "domain": "de.wikipedia.org", "url": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages"}}
+{"ts":"2025-07-27T19:19:14","spider":"legislative_periods","level":"INFO","event":{"event": "start_parse_list_of_lists", "url": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages"}}
+{"ts":"2025-07-27T19:19:14","spider":"legislative_periods","level":"INFO","event":{"event": "found_rows", "count": 72, "url": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages"}}

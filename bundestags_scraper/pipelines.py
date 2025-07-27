@@ -69,7 +69,7 @@ def normalize_party_name(raw: str | None) -> str | None:
 #  Batch helper                                                               #
 # --------------------------------------------------------------------------- #
 
-BATCH_SIZE = 500
+BATCH_SIZE = 1000
 _BATCHED_TYPES = {"page", "politician", "content"}  # item_type values
 
 

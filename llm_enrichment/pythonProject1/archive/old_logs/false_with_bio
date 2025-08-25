@@ -1,0 +1,198 @@
+[
+  {
+    "ID":"#054",
+    "timestamp":1749473001024,
+    "dqr_original":7,
+    "comment_original":"Diplom Volkswirtschaftslehre  (Univ.)",
+    "dqr_predict":6,
+    "comment_predict":"Studium der Volkswirtschaftslehre mit Abschluss (Bachelor-Niveau)",
+    "estimated_costs":0.002332,
+    "Name":"Andrea Fischer",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben[Bearbeiten | Quelltext bearbeiten]\n\nNach dem Abitur schloss Andrea Fischer eine Ausbildung zur Offsetdruckerin ab.[2] Sie war dann als Druckerin und Korrektorin tätig und absolvierte zusätzlich ein Studium der Volkswirtschaftslehre an der Freien Universität Berlin. Nach Abschluss ihres Studiums war sie als wissenschaftliche Mitarbeiterin beim Europaparlament, am Wissenschaftszentrum Berlin für Sozialforschung und bei der Bundesversicherungsanstalt für Angestellte tätig.[3][1]"
+    ]
+  },
+  {
+    "ID":"#123",
+    "timestamp":1749473002664,
+    "dqr_original":8,
+    "comment_original":"Dr. rer. pol.",
+    "dqr_predict":0,
+    "comment_predict":"Keine Angabe zum Bildungsabschluss",
+    "estimated_costs":0.002344,
+    "Name":"Herbert Ehrenberg",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben[Bearbeiten | Quelltext bearbeiten]\n\nHerbert Ehrenberg war der Sohn eines Landwirts. Er besuchte im ostpreußischen Goldap das damals Oberschule für Jungen genannte Gymnasium. 1943 wurde er zum Kriegsdienst einberufen. Am 22. Dezember 1943 beantragte er die Aufnahme in die NSDAP und wurde zum 20. April 1944 aufgenommen (Mitgliedsnummer 9.913.168).[1][2] Nach kurzer Kriegsgefangenschaft 1945 war er zunächst als Landarbeiter in Niedersachsen und von 1947 bis 1951 als Polizeibeamter in Bremen tätig."
+    ]
+  },
+  {
+    "ID":"#046",
+    "timestamp":1749473005326,
+    "dqr_original":7,
+    "comment_original":"1tes Staatsexam Rechtswissenschaften",
+    "dqr_predict":6,
+    "comment_predict":"Erstes juristisches Staatsexamen (Bacheloräquivalent)",
+    "estimated_costs":0.00293,
+    "Name":"Wolfgang Clement",
+    "correct_pred":false,
+    "bio_section":[
+      "Frühe Jahre und Ausbildung[Bearbeiten | Quelltext bearbeiten]\n\nWolfgang Clement wurde 1940 als Sohn des Maurers und späteren Bauingenieurs Josef Clement (1902–1965) und dessen Frau Paula, geb. Gockel (1902–1967), in Bochum geboren.[1][2] Väterlicherseits stammte Clements Familie aus Medebach im Sauerland und war der Arbeit wegen ins Ruhrgebiet gezogen; die Mutter stammte aus Essen.[1] Clement wurde streng katholisch erzogen und war in seiner Jugend Messdiener.[3] Nach dem Abitur an der Graf-Engelbert-Schule in Bochum 1960 absolvierte Clement ein Volontariat bei der Westfälischen Rundschau in Dortmund. Danach begann er ein Studium der Rechtswissenschaft an der Westfälischen Wilhelms-Universität Münster, welches er 1965 mit dem ersten juristischen Staatsexamen beendete. Er war dann als Rechtsreferendar und als Assistent tätig, zunächst am Institut für Prozessrecht an der Universität Marburg, später bei Ingo von Münch an der Ruhr-Universität Bochum. Eine bei von Münch in Bochum begonnene Dissertation über Die Zustimmungsbedürftigkeit von Gesetzen im Bundesrat schloss Clement nicht ab, sondern arbeitete seit 1968 wieder bei der Westfälischen Rundschau: zunächst als politischer Redakteur, dann als Ressortleiter für Politik und seit Ende 1973 schließlich als stellvertretender Chefredakteur. Das Blatt gehörte bis Mitte der 1970er Jahre zur SPD-Holding Deutsche Druck- und Verlagsgesellschaft (DDVG). Von 1986 bis 1989 war Clement Chefredakteur der Hamburger Morgenpost, die ursprünglich dem SPD-eigenen Verlag Auerdruck gehörte und unmittelbar vor Clements Wechsel vom Verlag Gruner + Jahr gekauft worden war.[4]"
+    ]
+  },
+  {
+    "ID":"#066",
+    "timestamp":1749473006249,
+    "dqr_original":7,
+    "comment_original":"Landwirtschaftlicher Lehrmeister",
+    "dqr_predict":6,
+    "comment_predict":"Landwirtschaftsmeister (Meisterprüfung)",
+    "estimated_costs":0.002644,
+    "Name":"Ignaz Kiechle",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben und Beruf[Bearbeiten | Quelltext bearbeiten]\n\nNach dem Besuch der Volksschule absolvierte Kiechle eine landwirtschaftliche Lehre und danach ein sechsmonatiges landwirtschaftliches Praktikum im Rahmen des Marshallplans in den USA. Nach seiner Rückkehr besuchte er von 1949 bis 1952 die Landwirtschaftliche Fachschule. 1960 legte er die Meisterprüfung ab und bildete seitdem Lehrlinge aus. Von 1958 bis 1968 leitete er den elterlichen Landwirtschaftsbetrieb.[1][2]\n\nIgnaz Kiechle war mit Cäcilia Kiechle, geb. Räth, verheiratet und hatte vier Kinder.[3][4] Sein Sohn Thomas Kiechle ist kommunalpolitisch engagiert und seit 2014 für die CSU der Oberbürgermeister der Stadt Kempten (Allgäu). Seine Tochter Andrea leitet den AVA-Agrarverlag Allgäu GmbH in Kempten, der verschiedene Zeitschriften herausgibt, z. B. „Das schöne Allgäu“ und das „Allgäuer Bauernblatt“. Seine Tochter Manuela gehörte von 2011 bis 2017 dem Parteivorstand der CSU an und war bis zum Eintritt in den Ruhestand Ende 2020 Mitglied des Vorstands der Versicherungskammer Bayern.[5]"
+    ]
+  },
+  {
+    "ID":"#169",
+    "timestamp":1749473012671,
+    "dqr_original":8,
+    "comment_original":"Dr. phil.",
+    "dqr_predict":6,
+    "comment_predict":"Diplom-Soziologin (äquivalent zum Master, aber nach DQR als Diplomabschluss auf Niveau 6 eingestuft)",
+    "estimated_costs":0.002672,
+    "Name":"Kristina Schröder",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben[Bearbeiten | Quelltext bearbeiten]\n\nSchröder ist die Tochter des Oberamtsanwalts Helmut Köhler, der als ehemaliger Rallye-Beifahrer, zumeist als Copilot des Rennfahrers Horst Rack, und späterer DMSB-Offizieller in der deutschen Motorsportszene bekannt ist.[1] Ihre Mutter ist Immobilienmaklerin.[2] Schröder absolvierte 1997 an der Diltheyschule in Wiesbaden ihr Abitur und studierte danach an der Johannes Gutenberg-Universität Mainz Soziologie, Mittlere und Neue Geschichte, Philosophie und Politikwissenschaft. 2002 schloss Schröder ihr Studium als Diplom-Soziologin ab. Während ihres Studiums war sie von 1997 bis 2002 als Mitarbeiterin bei der hessischen CDU-Landtagsabgeordneten Birgit Zeimetz-Lorz und von 1998 bis 2002 als studentische Hilfskraft am Institut für Soziologie der Universität Mainz tätig."
+    ]
+  },
+  {
+    "ID":"#181",
+    "timestamp":1749473014647,
+    "dqr_original":8,
+    "comment_original":"Dr. jur.",
+    "dqr_predict":0,
+    "comment_predict":"Keine Angabe zum Bildungsabschluss. Abschnitt enthält nur familiäre Informationen.",
+    "estimated_costs":0.00253,
+    "Name":"Andreas von Bülow",
+    "correct_pred":false,
+    "bio_section":[
+      "Familie\n\nAndreas von Bülow entstammt dem mecklenburgischen Uradelsgeschlecht derer von Bülow. Sein Vater Georg-Ulrich von Bülow kam 1911 auf dem Bülowschen Familiengut Rogeez im Landkreis Mecklenburgische Seenplatte als Sohn des Otto von Bülow und dessen Ehefrau Auguste, geb. von Plessen (a. d. H. Dolgen[1]), zur Welt und wurde Professor für Violoncello an der Musikhochschule Heidelberg. Seine 1901 geborene Mutter Susanne, geb. Haym, war die Tochter des Musikdirektors Professor Hans Haym. Andreas von Bülow ist verheiratet, hat vier Kinder und einen jüngeren Bruder.[2] Seine Tochter Alice, genannt Lissi, trat 2020 als Kandidatin der SPD für das Amt der Oberbürgermeisterin in Bonn an, erreichte dabei jedoch nicht die Stichwahl.[3]"
+    ]
+  },
+  {
+    "ID":"#047",
+    "timestamp":1749473022223,
+    "dqr_original":7,
+    "comment_original":"2tes Staatsexam Rechtswissenschaften",
+    "dqr_predict":8,
+    "comment_predict":"Promotion zur Dr. jur. (Rechtswissenschaften)",
+    "estimated_costs":0.00287,
+    "Name":"Herta Däubler-Gmelin",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben und Beruf[Bearbeiten | Quelltext bearbeiten]\n\nHerta Däubler-Gmelin ist die Tochter von Helge Gmelin, der Tochter des Tübinger Buchhändlers und ehemaligen Marineoffiziers Richard Jordan, und des Diplomaten, SA- und NSDAP-Mitglieds und Tübinger Oberbürgermeisters Hans Gmelin. Seit 1969 ist sie mit dem Arbeitsrechtler Wolfgang Däubler verheiratet. Sie haben zwei Kinder[1] (Monika und Wolf-Peter) und leben in Dußlingen.[2]\n\nNach dem Abitur am Wildermuth-Gymnasium[3] in Tübingen absolvierte Herta Däubler-Gmelin ein Studium der Geschichte, Rechtswissenschaft und Politikwissenschaften in Tübingen und Berlin. Von 1968 bis 1972 war sie Gerichtsreferendarin. Nach den juristischen Staatsexamina (1969 und 1974) und einer arbeitsrechtlichen Dissertation[4] zum Thema Bildungsurlaub für Arbeitnehmer: ein Weg zur Verwirklichung des Grundrechts auf Bildung? und der 1975 erfolgten Promotion zum Dr. jur. an der Universität Bremen, wo ihr Mann bereits seit 1971 als Hochschullehrer für Arbeitsrecht fungierte, war sie als Rechtsanwältin, zuerst in Stuttgart, danach in Berlin, tätig. Sie veröffentlichte diverse arbeitsrechtliche und wirtschaftsrechtliche Schriften. 1995 wurde sie zur Honorar-Professorin ernannt und hatte Lehraufträge am Otto-Suhr-Institut der Freien Universität Berlin sowie am Zentrum für Deutschlandstudien (ZDS) an der Peking-Universität. Im akademischen Jahr 2011\/12 war sie Gastprofessorin am Lehrstuhl für Systematische Theologie der RWTH Aachen."
+    ]
+  },
+  {
+    "ID":"#079",
+    "timestamp":1749473024577,
+    "dqr_original":7,
+    "comment_original":"Dipl.-Volkswirt",
+    "dqr_predict":6,
+    "comment_predict":"Diplom-Volkswirt (äquivalent zum Abschluss eines Bachelor)",
+    "estimated_costs":0.00275,
+    "Name":"Hans Matthöfer",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben[Bearbeiten | Quelltext bearbeiten]\n\nMatthöfer war der Sohn eines ungelernten Arbeiters, der wegen eines Arbeitsunfalles seine Lehre abbrechen musste. Seine Mutter war dem katholischen Milieu nur locker verbunden. Nach dem Besuch der Volksschule von 1932 bis 1940 absolvierte er von 1940 bis 1942 eine Ausbildung an einer Handelsschule. Er war Mitglied der Hitler-Jugend[1] und bis zum Alter von 16 Jahren im Boxsport aktiv.[2] 1942 begann er eine kaufmännische Lehre beim Eisen- und Hüttenwerk in Bochum, die aufgrund des Krieges unterbrochen wurde. Matthöfer nahm von 1943 bis 1945 als Soldat am Zweiten Weltkrieg teil.[3] Nach dem Krieg setzte der die Lehre fort, wurde 1946 Mitglied der IG Metall[4] und bestand 1946 die Dolmetscher-Prüfung für Englisch. 1948 begann er nach einer Zulassungsprüfung ein Studium der Wirtschafts- und Sozialwissenschaften in Frankfurt am Main und Madison (Wisconsin), USA, welches er 1953 als Diplom-Volkswirt beendete.\n\nWährend seines Studiums in den USA war er durch seinen Lehrer Jack Barbash mit den Ideen und der Praxis der betriebsnahen Gewerkschaftsarbeit (workplace unionism) vertraut gemacht worden, die er bei seiner späteren Tätigkeit bei der IG Metall zu nutzen verstand."
+    ]
+  },
+  {
+    "ID":"#097",
+    "timestamp":1749473027243,
+    "dqr_original":7,
+    "comment_original":"Diplom an der Verwaltungs- und Wirtschaftsakademie München",
+    "dqr_predict":0,
+    "comment_predict":"Keine Angabe zum Bildungsabschluss",
+    "estimated_costs":0.002522,
+    "Name":"Horst Seehofer",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben\n\nHorst Seehofer und seine drei Geschwister wuchsen in Ingolstadt in konservativ-katholisch geprägten Familienverhältnissen auf. Sie waren Arbeiterkinder, der Vater Lorenz Seehofer war Lkw-Fahrer und Bauarbeiter, die Mutter Grete Seehofer war Hausfrau. Horst Seehofer war von 1974 bis 1982 mit Christine „Christl“ Hildegard verheiratet. Seit 1985 besteht seine zweite Ehe mit der Verwaltungsangestellten Karin Seehofer.[1][2][3] Mit ihr hat Seehofer drei Kinder, Ulrike (* 1986), Andreas (* 1988) und die FDP-Politikerin[4] Susanne (* 1991).[5][6][7] Er hat eine 2007 geborene Tochter aus einer außerehelichen Beziehung mit der Büroleiterin Anette Fröhlich.[1][8][9]\n\nEr ist römisch-katholischer Konfession und hat seinen Wohnsitz im Ingolstädter Stadtteil Gerolfing."
+    ]
+  },
+  {
+    "ID":"#126",
+    "timestamp":1749473028778,
+    "dqr_original":8,
+    "comment_original":"Dr. phil.",
+    "dqr_predict":0,
+    "comment_predict":"Keine Angabe zum Bildungsabschluss. Es wurden nur Angaben zu Familienmitgliedern gemacht, nicht zu Katharina Fockes eigenem Bildungsweg.",
+    "estimated_costs":0.002444,
+    "Name":"Katharina Focke",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben[Bearbeiten | Quelltext bearbeiten]\n\nKatharina Focke war die Tochter des Publizisten und Europapolitikers Ernst Friedlaender († 1973) und der promovierten Ärztin Franziska Schulz. Ihr Bruder war der 1927 in Berlin geborene Jurist und Geschäftsführer (unter anderem der William Prym KG) Ernst Friedlaender.[2] Zu ihren Vorfahren zählte sie Martin Luther und Ernst von Saucken."
+    ]
+  },
+  {
+    "ID":"#060",
+    "timestamp":1749473033073,
+    "dqr_original":7,
+    "comment_original":"Diplom-Volkswirtin (Univ.)",
+    "dqr_predict":6,
+    "comment_predict":"Diplom-Volkswirtin (entspricht einem universitären Abschluss auf Bachelor-Niveau)",
+    "estimated_costs":0.002686,
+    "Name":"Gerda Hasselfeldt",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben und Beruf[Bearbeiten | Quelltext bearbeiten]\n\nGerda Hasselfeldt wuchs in Haibach im Bayerischen Wald (Niederbayern) auf einem Bauernhof mit Metzgerei und Gasthaus auf. Ihr Vater Alois Rainer (1921–2002) war Bürgermeister. Später gehörte er dem Landtag und von 1965 bis 1983 dem Deutschen Bundestag an.\n\nNach dem Abitur im Jahr 1969 absolvierte Hasselfeldt ein Studium der Volkswirtschaftslehre an der Ludwig-Maximilians-Universität München und der Universität Regensburg, das sie 1975 als Diplom-Volkswirtin abschloss. Sie war dann bis 1987 Mitarbeiterin bei der Bundesanstalt für Arbeit, zuletzt ab 1985 als Leiterin der Abteilung Berufsberatung im Arbeitsamt Deggendorf.\n\nHasselfeldt ist katholisch,[1] war von 2004 bis 2019 in zweiter Ehe mit dem ehemaligen Bundestagsabgeordneten Wolfgang Zeitlmann verheiratet[2] und ist Mutter von zwei Kindern.[3] Der Politiker Alois Rainer, der im Mai 2025 zum Bundeslandwirtschaftsminister ernannt wurde, ist ihr jüngerer Bruder.[4]"
+    ]
+  },
+  {
+    "ID":"#023",
+    "timestamp":1749473035037,
+    "dqr_original":4,
+    "comment_original":"Pflanzungskaufmann",
+    "dqr_predict":0,
+    "comment_predict":"Keine Angabe zum Bildungsabschluss. Abschnitt enthält nur familiäre Informationen.",
+    "estimated_costs":0.00281,
+    "Name":"Kai-Uwe von Hassel",
+    "correct_pred":false,
+    "bio_section":[
+      "Familie[Bearbeiten | Quelltext bearbeiten]\n\nVon Hassels Großvater, Generalleutnant Friedrich von Hassel (1833–1890), wurde am 22. März 1887 in den preußischen Adelsstand erhoben. Sein Vater Theodor von Hassel (1868–1935) heiratete am 23. Oktober 1906 Emma Jebsen (* 14. Mai 1885). Er war Hauptmann einer Kompanie der Schutztruppe für Deutsch-Ostafrika und nach seinem Abschied aus dem aktiven Dienst Plantagenbesitzer in der damaligen Kolonie. 1908 wurde das erste Kind Gertrud geboren, 1910 das zweite, Friedrich. Im Jahr 1919 – inzwischen war die Kolonie vom Völkerbund in britisches Mandat gegeben worden – wurden er und seine Familie von der britischen Mandatsverwaltung ausgewiesen und siedelten nach Glücksburg über. 1923 bekam das Ehepaar das vierte Kind, Gisela, 1924 ließ Emma sich scheiden.[1]\n\nKai-Uwe von Hassel und seine erste Ehefrau Elfriede hatten zwei gemeinsame Kinder, Joachim (geboren 1942) und Barbara (geboren 1943).[2] Joachim von Hassel starb am 10. März 1970 beim Absturz mit einem Starfighter. Elfriede beging am 29. April 1971 Suizid.[3] Hassel heiratete im Juni 1972 die Historikerin Monika Weichert; dieser Ehe entstammt der 1974 geborene Jan von Hassel.[4]"
+    ]
+  },
+  {
+    "ID":"#068",
+    "timestamp":1749473040349,
+    "dqr_original":7,
+    "comment_original":"Studium Geschichte",
+    "dqr_predict":4,
+    "comment_predict":"Allgemeine Hochschulreife (Abitur) und Studium ohne Abschlussnachweis",
+    "estimated_costs":0.002456,
+    "Name":"Reinhard Klimmt",
+    "correct_pred":false,
+    "bio_section":[
+      "Leben und Wirken[Bearbeiten | Quelltext bearbeiten]\n\nKlimmt wuchs in Engter bei Osnabrück auf, wo sein Vater Dorfschullehrer war.[2][1] Er machte sein Abitur am Ernst-Moritz-Arndt-Gymnasium in Osnabrück. Dort absolvierte er während seiner Schulzeit am Konservatorium eine Ausbildung als Cellist. Nach dem Abitur studierte er an der Universität des Saarlandes Geschichte.[3]\n\nKlimmt ist als Buchautor und Kolumnist im Bereich Literatur tätig. Er ist verheiratet und hat drei Kinder und vier Enkel.[4] Er ist Mitglied im P.E.N. – Zentrum deutschsprachiger Autoren im Ausland und im Saarländischen Künstlerhaus."
+    ]
+  },
+  {
+    "ID":"#102",
+    "timestamp":1749473042601,
+    "dqr_original":7,
+    "comment_original":"Dipl.-Jurist",
+    "dqr_predict":6,
+    "comment_predict":"Diplom-Jurist (entspricht einem Bachelorabschluss)",
+    "estimated_costs":0.002286,
+    "Name":"Manfred Stolpe",
+    "correct_pred":false,
+    "bio_section":[
+      "Ausbildung[Bearbeiten | Quelltext bearbeiten]\n\n1945 mit seinen Eltern aus Stettin nach Greifswald geflohen, begann Stolpe nach dem Abitur 1955 dort anschließend ein Studium der Rechtswissenschaft an der Universität Jena, das er 1959 mit dem Abschluss Diplom-Jurist beendete. Von 1959 bis zum Mauerbau 1961 war er Gaststudent an der Freien Universität Berlin."
+    ]
+  }
+]

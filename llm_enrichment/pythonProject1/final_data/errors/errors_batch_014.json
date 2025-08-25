@@ -1,0 +1,11 @@
+[
+  {
+    "neo4j_element_id": "4:efc8ecef-1ae9-4ae6-a5c6-3ab222bbb2a5:7262",
+    "full_name": "Peter Hinz",
+    "error_type": "KeyError",
+    "error_message": "'firstname'",
+    "timestamp": "2025-08-24T21:01:40.387832",
+    "batch_num": 14,
+    "person_index": 38
+  }
+]

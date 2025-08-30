@@ -9,4 +9,10 @@ dependencies = [
     "neo4j>=5.0.0",
     "pyyaml>=6.0.2",
     "ipykernel>=6.30.0",
+    "pandas>=2.3.2",
+    "numpy>=2.3.2",
+    "matplotlib>=3.10.6",
+    "seaborn>=0.13.2",
+    "pydantic-ai>=0.8.1",
+    "openai>=1.102.0",
 ]

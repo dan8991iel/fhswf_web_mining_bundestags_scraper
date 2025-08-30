@@ -1,5 +1,8 @@
 environment/config.yaml
 
+#-----
+neo4j_data
+
 
 # --- VOLATILE AT EACH START (ignore) ----------------------------------------
 neo4j_database/neo4j_home/logs/

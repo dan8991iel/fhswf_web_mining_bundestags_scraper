@@ -9,3 +9,4 @@ services:
       - NEO4J_AUTH=neo4j/bundestag_password
     volumes:
       - ./data/neo4j_data:/data
+    restart: always

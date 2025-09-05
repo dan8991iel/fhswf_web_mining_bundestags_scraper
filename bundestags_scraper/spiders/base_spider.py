@@ -127,9 +127,7 @@ class SourceMixin:
             self.log_missing(item, url, missing)
         return not missing
         
-class Neo4jMixin:
-    """Get a Neo4j driver from Scrapy settings (set in settings.py)."""
-    
+   
     # scrapy_project/base_spider.py
 class Neo4jMixin():
     """
